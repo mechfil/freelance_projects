@@ -1,4 +1,4 @@
-# Дашборд вакансий Data Analyst и Data Science
+# Дашборд вакансий Data Analysts и Data Scientists
 
 
 ➡️ [Ссылка на дашборд в DataLens](https://datalens.yandex/1wffw1w4ev1sq)
