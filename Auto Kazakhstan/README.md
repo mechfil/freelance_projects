@@ -9,7 +9,6 @@
 
 ## Инструменты
 - Python
-- Jupyter Notebook
 - Pandas
 - Matplotlib
 - Seaborn
