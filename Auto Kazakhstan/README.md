@@ -12,6 +12,7 @@
 - Pandas
 - Matplotlib
 - Seaborn
+- Re
 
 ## Методы
 - EDA-анализ
