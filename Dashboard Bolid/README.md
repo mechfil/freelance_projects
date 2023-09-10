@@ -1,9 +1,7 @@
 # Дашборд Bolid
 
 
-➡️ [Ссылка на дашборд в DataLens](https://datalens.yandex/jl14ttmqxsxw8)  
-➡️ [Техническое задание](https://github.com/mechfil/pet_projects/blob/main/Dashboard%20Bolid/technical_requirements.pdf)  
-➡️ [Описание данных](https://github.com/mechfil/pet_projects/blob/main/Dashboard%20Bolid/data_description.pdf)  
+⌛ Проект в работе
 
 
 ## Описание проекта
